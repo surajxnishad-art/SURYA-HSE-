@@ -1,0 +1,6 @@
+{
+  "name": "SURAJ HSE — Industrial Safety Management System",
+  "description": "Enterprise Industrial Safety Management System featuring AI Observation Photo Analysis, Safety Document Generation, Equipment Inspections, Role-Based Access Control, and Excel/PDF Exports.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
